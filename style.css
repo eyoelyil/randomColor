@@ -1,3 +1,9 @@
 body {
   background-color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: coral;
+}
+button {
+  padding: 2% 5%;
+  cursor: pointer;
 }
